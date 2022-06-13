@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649969141 source:c:\users\marin\desktop\domino-piling\main.cpp
+	<iostream>
+	<cmath>
+
